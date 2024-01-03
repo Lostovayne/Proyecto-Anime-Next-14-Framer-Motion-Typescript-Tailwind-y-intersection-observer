@@ -1,9 +1,21 @@
-# Build Modern Next 14 Server Side App with Server Actions, Infinite Scroll & Framer Motion Animations
+# Proyecto de Consumo de API de Anime
 
-![Anime Website](https://i.ibb.co/MG1nbqt/YT-Thumbnails-2.png)
+Este proyecto es una aplicación web que consume una API de anime para mostrar información y detalles sobre diferentes series y películas de anime. Está construido utilizando Next.js 14, Server Actions, Framer Motion, TypeScript y Tailwind CSS.
 
-### [🌟 Become a top 1% Next.js 14 developer in only one course](https://jsmastery.pro/next14)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
-### [📙 Free Three.js Cheatsheet](https://resource.jsmastery.pro/threejs-cheatsheet)
-### [🌐 Best Hosting for Your Websites](https://hostinger.com/javascript10)
+## Requisitos
+
+Antes de comenzar, asegúrate de tener instalado lo siguiente:
+
+- Node.js (versión 14 o superior)
+- npm (o yarn)
+
+## Instalación
+
+Sigue estos pasos para instalar y ejecutar el proyecto localmente:
+
+1. Clona este repositorio:
+
+   ```bash
+    git clone https://github.com/tu-usuario/nombre-del-proyecto.git
+   ```
 
